@@ -1,0 +1,31 @@
+/* add your CSS here */
+
+.goat-image {
+  width: 100%;
+  max-width: 100%
+}
+
+.fact {
+  font-weight: bold;
+}
+
+.border {
+  border-style: solid;
+  border-width: 1px;
+  padding: 10px;
+  box-shadow: 0.5px 0.5px 0.5px 0.5px;
+}
+
+.shadow {
+  box-shadow: 5px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+
+.content {
+  width: 300px;
+  margin: auto;
+}
